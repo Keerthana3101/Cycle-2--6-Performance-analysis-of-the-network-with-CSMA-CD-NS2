@@ -32,7 +32,7 @@ To write an NS2 program to observe the performance of the network with Carrier S
 19. At a specific time, call the finish procedure.  
 20. Stop the program.
 ## PROGRAM:
-
+```tcl
 #Lan simulation – mac.tcl setns [new Simulator] #define color for data flows
 $ns color 1 blue
 $ns color 2 red
@@ -89,21 +89,12 @@ $ns at 7.5 "$cbr stop"
 $ns at 8.0 "finish"
 $ns run
 
-
+```
 ## 📊 MODEL OUTPUT
-<img src="C:\Users\Latha\OneDrive\Pictures\Screenshots\code block 2.png" alt="Code block 2" width="200"/>
 
+<img width="1012" height="527" alt="image" src="https://github.com/user-attachments/assets/6102d7a8-4143-428e-bdd6-0707e5b54028" />
 
-## 📝 MARK ALLOCATION
-
-| Criteria      | Total Marks | Marks Obtained |
-|---------------|-------------|----------------|
-| Performance   | 20          |                |
-| Observation   | 20          |                |
-| Record        | 20          |                |
-| Output        | 20          |                |
-| Viva          | 20          |                |
-| **Total**     | **100**     |                |
+<img width="1007" height="523" alt="image" src="https://github.com/user-attachments/assets/abe55e91-a18a-426f-8b01-3f0c4c784a64" />
 
 ## ✅ RESULT
 Thus, the performance of the network with Carrier Sense Multiple Access/Collision Detection is verified using NS2 simulation.
