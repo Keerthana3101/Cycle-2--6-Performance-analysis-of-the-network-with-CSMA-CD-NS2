@@ -92,7 +92,7 @@ $ns run
 ```
 ## 📊 MODEL OUTPUT
 
-<img width="1012" height="527" alt="image" src="https://github.com/user-attachments/assets/6102d7a8-4143-428e-bdd6-0707e5b54028" />
+<img width="1002" height="518" alt="image" src="https://github.com/user-attachments/assets/8297efa0-f314-41c7-827a-3323f251da13" />
 
 <img width="1007" height="523" alt="image" src="https://github.com/user-attachments/assets/abe55e91-a18a-426f-8b01-3f0c4c784a64" />
 
